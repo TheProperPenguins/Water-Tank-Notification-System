@@ -1,4 +1,4 @@
-Automatic-Water-Tank-Filler
+Automatic Water Tank Filler
 ===========================
 Backround/Client info
 
@@ -8,14 +8,20 @@ We decided to tackel this problem by creating a water tank filler that would aut
 
 
 Design requirements:
--Had to be able to withstand elements (rain, snow, wind etc.)
--Had to be water proof (as so it wouldn't short circuit in a wet enviroment)
--Had to fit his spicket as well as be easily installed
--Had to be under a $375 buget (afforable for other farmers)
--Had to be universal 
 
-Design Alternitives
--Here are some useful links that helped us with our desgin
+<ul>
+
+<li> Had to be able to withstand elements (rain, snow, wind etc.) </li>
+<li> Had to be water proof (as so it wouldn't short circuit in a wet enviroment) </li>
+<li> Had to fit his spicket as well as be easily installed </li>
+<li> Had to be under a $375 buget (afforable for other farmers) </li>
+<li> Had to be universal </li>
+
+</ul>
+
+<dl>
+<dt> Design Alternitives </dt>
+<dd> -Here are some useful links that helped us with our desgin </dd>
 http://www.youtube.com/watch?v=etF4e9rRQUA
 https://code.google.com/p/xbee-api/
 
