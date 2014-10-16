@@ -25,6 +25,7 @@ Design requirements:
 http://www.youtube.com/watch?v=etF4e9rRQUA
 https://code.google.com/p/xbee-api/
 
+<dt> Initial Design </dt>
 ![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/20141002_142842.jpeg)
 ![new design] (https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Real%20Design_Fotor.jpg) 
 Here is a link to Andre's Facebook page 
