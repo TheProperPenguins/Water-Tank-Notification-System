@@ -26,6 +26,13 @@ http://www.youtube.com/watch?v=etF4e9rRQUA
 https://code.google.com/p/xbee-api/
 
 <dt> Initial Design </dt>
+<dd> Our design prior to realizing the client already had similar technology
+
+<ul>
+<li> An automatic tank filler </li>
+<li> Uses water pressure censor </li>
+<li> Refils tank when water pressure falls below a fixed rate </li>
+</ul>
 ![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/20141002_142842.jpeg)
 <dt> Final Design </dt>
 ![new design] (https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Real%20Design_Fotor.jpg) 
