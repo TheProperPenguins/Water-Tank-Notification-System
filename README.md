@@ -33,7 +33,7 @@ https://code.google.com/p/xbee-api/
 <li> Uses water pressure sensor </li>
 <li> Refils tank when water pressure falls below a fixed rate </li>
 </ul>
-![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/20141002_142842.jpeg)
+![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Screen%20Shot%202014-10-16%20at%202_Fotor.jpg)
 <dt> Final Design </dt>
 ![new design] (https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Real%20Design_Fotor.jpg) 
 Here is a link to Andre's Facebook page 
