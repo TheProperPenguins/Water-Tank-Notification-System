@@ -30,7 +30,7 @@ https://code.google.com/p/xbee-api/
 
 <ul>
 <li> An automatic tank filler </li>
-<li> Uses water pressure censor </li>
+<li> Uses water pressure sensor </li>
 <li> Refils tank when water pressure falls below a fixed rate </li>
 </ul>
 ![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/20141002_142842.jpeg)
