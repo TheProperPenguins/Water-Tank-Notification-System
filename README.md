@@ -38,8 +38,8 @@ Design requirements:
 <dt> Final Design </dt>
 ![new design] (https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Real%20Design_Fotor.jpg) 
 
-<dt> Testing the Prototype </dt> 
-!(https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/image.jpg)
+<dt> Testing the Prototype </dt>
+![prototype](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/image.jpg)
 
 Here is a link to Andre's Facebook page 
 https://www.facebook.com/JacobSpringsFarm
