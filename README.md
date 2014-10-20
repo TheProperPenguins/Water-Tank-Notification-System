@@ -3,8 +3,8 @@ Water Tank Notification System
 Backround/Client info
 
 In the September of 2014, a small local farmer by the name of Andre Houssney presented to us some problems he was having on his farm.
-One of the main problems he presented was the fact that he had to go check on the water levels of his animals everyday (sometimes even more than twice a day)
-We decided to tackel this problem by creating a water tank filler that would automaticaly turn on the spicket and fill the amimals trough.
+One of the main problems he presented was the fact that he had to go check on the water levels of the tanks that despense water to his animals everyday (sometimes even more than twice a day)
+We decided to tackel this problem by creating a water tank notification system that would alert Andre when his large tanks were nearly empty.
 
 
 Design requirements:
@@ -13,8 +13,8 @@ Design requirements:
 
 <li> Had to be able to withstand elements (rain, snow, wind etc.) </li>
 <li> Had to be water proof (as so it wouldn't short circuit in a wet enviroment) </li>
-<li> Had to fit his spicket as well as be easily installed </li>
-<li> Had to be under a $375 buget (afforable for other farmers) </li>
+<li> Had to be easily installed </li>
+<li> Had to be under a $375 buget (afforable for other farmers and fit in our buget) </li>
 <li> Had to be universal </li>
 
 </ul>
@@ -22,9 +22,9 @@ Design requirements:
 <dl>
 <dt> Design Alternitives </dt>
 <dd> -Here are some useful links that helped us with our desgin </dd>
-http://www.youtube.com/watch?v=etF4e9rRQUA
 
-https://code.google.com/p/xbee-api/
+
+
 
 <dt> Initial Design </dt>
 <dd> Our design prior to realizing the client already had similar technology
