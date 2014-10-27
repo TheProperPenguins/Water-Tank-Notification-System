@@ -39,7 +39,7 @@ Design requirements:
 <ul>
 <li> Uses a water pressure sensor </li>
 <li> Has adjustable pressure settings via button </li>
-<li> Notifes user when water pressure is lower than set amount </li>
+<li> Notifies user when water pressure is lower than set amount </li>
 <li> Communicates via cellphone MMS message</li>
 ![new design] (https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Real%20Design_Fotor.jpg) 
 
