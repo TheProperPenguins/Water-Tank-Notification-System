@@ -19,7 +19,7 @@ Design requirements:
 
 </ul>
 
-<dl>
+
 <dt> Design Alternitives </dt>
 <dd> -Here are some useful links that helped us with our desgin </dd>
 
