@@ -24,3 +24,15 @@ We created a system that notifies a user when the water levels in any given tank
 <li>Attach the phone to the solar panel so that it may stay constantly charged </li>
 <li>Make it so the programmable button is on the outside of box to make it more user friendly </li>
 </ul>
+
+<p> <b> Costs </b> </p>
+
+<dl>
+<dt>Our total cost</dt>
+<dd> ~$210.00 </dd> 
+<dd> This inluded the cost of our unused phones and unused items.</dd>
+<dt> Fanufactoring Costs </dt>
+<dd> $79.99 </dd>
+<dd> If we were able to manufactor our product, with our own board, sensor, and a GMS sheild; we would sell it to the public for this price</dd>
+
+</dl>
