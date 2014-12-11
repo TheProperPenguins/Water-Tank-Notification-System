@@ -1,13 +1,13 @@
 Water Tank Notification System 
 ===========================
-Backround/Client info
+<b>Backround/Client info</b>
 
 In the September of 2014, a small local farmer by the name of Andre Houssney presented to us some problems he was having on his farm.
 One of the main problems he presented was the fact that he had to go check on the water levels of the tanks that despense water to his animals everyday (sometimes even more than twice a day)
 We decided to tackel this problem by creating a water tank notification system that would alert Andre when his large tanks were nearly empty.
 
 
-Design requirements:
+<b>Design requirements:</b>
 
 <ul>
 
@@ -20,13 +20,13 @@ Design requirements:
 </ul>
 
 
-<dt> Design Alternitives </dt>
+<b> Design Alternitives </b>
 <dd> -Here are some useful links that helped us with our desgin </dd>
 
 
 
 
-<dt> Initial Design </dt>
+<b> Initial Design </b>
 <dd> Our design prior to realizing the client already had similar technology
 
 <ul>
