@@ -28,7 +28,7 @@ We decided to tackel this problem by creating a water tank notification system t
 <li> Refils tank when water pressure falls below a fixed rate </li>
 </ul>
 ![Inital Desgin](https://github.com/TheProperPenguins/Automatic-Water-Tank-Filler/blob/master/Github%20Pictures/Screen%20Shot%202014-10-16%20at%202_Fotor.jpg)
-<dt> Final Design </dt>
+<b> Final Design </b>
 <ul>
 <li> Uses a water pressure sensor </li>
 <li> Has adjustable pressure settings via button </li>
