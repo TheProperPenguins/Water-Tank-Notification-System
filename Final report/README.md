@@ -29,9 +29,7 @@ We created a system that notifies a user when the water levels in any given tank
 </ul>
 
 <p> <b> Costs </b> </p>
-
-<dl>
-<dt>Our total cost</dt>
+![Budget](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Screen%20Shot%202014-12-11%20at%202.28.38%20PM.jpg)
 <dd> ~$210.00 </dd> 
 <dd> This inluded the cost of our unused phones and unused items.</dd>
 <dt> Fanufactoring Costs </dt>
