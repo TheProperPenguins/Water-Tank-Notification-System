@@ -12,3 +12,4 @@ Testing
 
 <b>The final sucsesful code<b/>
 ![finalcode](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/FinalCode(pic).jpg)
+![finalcode2](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/FinalCode(pic)part%202%20(1).jpg)
