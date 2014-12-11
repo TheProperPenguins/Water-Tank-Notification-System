@@ -12,7 +12,9 @@ Andre, our client, saw our finished product during our Design Expo and was very 
 <li> All black wires go to ground</li>
 <li> Solar pannel is conected to power<li>
 </ul>
+
 <b>Solar panel conection</b>
+
 
 ![solar](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Schematic-of-solar-panel-charger-circuit.gif)
 
