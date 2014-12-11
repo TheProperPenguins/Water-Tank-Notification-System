@@ -19,14 +19,7 @@ We decided to tackel this problem by creating a water tank notification system t
 
 </ul>
 
-
-<b> Design Alternitives </b>
-<dd> -Here are some useful links that helped us with our desgin </dd>
-
-
-
-
-<b> Initial Design </b>
+<b> Initial Design/Design Alternatives </b>
 <dd> Our design prior to realizing the client already had similar technology
 
 <ul>
