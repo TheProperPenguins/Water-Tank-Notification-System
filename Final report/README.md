@@ -12,10 +12,12 @@ Andre, our client, saw our finished product during our Design Expo and was very 
 <li> All black wires go to ground</li>
 <li> Solar pannel is conected to power<li>
 </ul>
-
 <b>Solar panel conection</b>
+
 ![solar](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Schematic-of-solar-panel-charger-circuit.gif)
+
 <p> <b> Automatic Water Tank Notification System </b> </p>
+
 We created a system that notifies a user when the water levels in any given tank have fallen below the desirable level.  The user is notified via text message sent from an arduino attached to the water sensor.  Additionally there is a solar panel feature that prevents the system from running out of power.  This system allows our client to monitor his tank’s water levels without having to visit the tanks in person. All the farmer has to do is place the sensor at the bottom of his tank, fill the tank to the desired water level, press the button to program that value, put his phone number in the phone and then he’s done! 
 
 ![CAD1](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/CAD1.png)
