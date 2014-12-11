@@ -3,7 +3,16 @@ Final Report
 Our project was successful! The cell phone and arduino are hooked up to the solar panel so the actual project should last months on end without needing to be checked.
 Andre, our client, saw our finished product during our Design Expo and was very impressed and happy that he would soon recive it for his water tank.
 ![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
-
+<p> <b>
+<ul>
+<li> Red WIres:Go to power<li/>
+<li> Button connection is to input</li>
+<li>Serial port on phone connects to designated ports and ground</li>
+<li> All black wires go to ground</li>
+<li> Solar pannel is conected to power<li>
+</ul>
+<b>Solar panel conection</b>
+![solar](https://www.google.com/search?q=solar+panel+rechargeable+battery&sa=N&espv=2&biw=1440&bih=685&tbm=isch&tbo=u&source=univ&ei=wRKKVIukJI72yQSaloIY&ved=0CIQBELAEOAo#facrc=_&imgdii=_&imgrc=BAUoVcFSJUrJSM%253A%3Bl8L8t8uoNMCVHM%3Bhttp%253A%252F%252Fwww.robotroom.com%252FWeather-Station%252FSchematic-of-solar-panel-charger-circuit.gif%3Bhttp%253A%252F%252Fwww.robotroom.com%252FSolar-Recharging.html%3B720%3B320)
 <p> <b> Automatic Water Tank Notification System </b> </p>
 We created a system that notifies a user when the water levels in any given tank have fallen below the desirable level.  The user is notified via text message sent from an arduino attached to the water sensor.  Additionally there is a solar panel feature that prevents the system from running out of power.  This system allows our client to monitor his tank’s water levels without having to visit the tanks in person. All the farmer has to do is place the sensor at the bottom of his tank, fill the tank to the desired water level, press the button to program that value, put his phone number in the phone and then he’s done! 
 
