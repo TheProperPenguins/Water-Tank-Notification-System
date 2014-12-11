@@ -30,6 +30,7 @@ We created a system that notifies a user when the water levels in any given tank
 
 <p> <b> Costs </b> </p>
 ![Budget](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Screen%20Shot%202014-12-11%20at%202.28.38%20PM.jpg)
+
 <b> This did not inluded the cost of our unused phones and unused items.</b>
 <dt> Sunk Costs: $65.72</dt>
 <b> Manufactoring Costs </b>
