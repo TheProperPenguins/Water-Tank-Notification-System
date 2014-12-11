@@ -11,5 +11,6 @@ Testing
 ![Graph](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Screen%20Shot%202014-12-11%20at%202.59.50%20AM%20-%20Version%202.jpg)
 
 <b>The final sucsesful code<b/>
+We derived our code from http://murchlabs.com/send-sms-from-your-arduino/
 ![finalcode](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/FinalCode(pic).jpg)
 ![finalcode2](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/FinalCode(pic)part%202%20(1).jpg)
