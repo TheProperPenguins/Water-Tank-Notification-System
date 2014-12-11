@@ -30,9 +30,9 @@ We created a system that notifies a user when the water levels in any given tank
 
 <p> <b> Costs </b> </p>
 ![Budget](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Screen%20Shot%202014-12-11%20at%202.28.38%20PM.jpg)
-<dd> ~$210.00 </dd> 
-<dd> This inluded the cost of our unused phones and unused items.</dd>
-<dt> Fanufactoring Costs </dt>
+<dd> This did not inluded the cost of our unused phones and unused items.</dd>
+<dt> Sunk Costs: $65.72</dt>
+<dt> Manufactoring Costs </dt>
 <dd> $79.99 </dd>
 <dd> If we were able to manufactor our product, with our own board, sensor, and a GMS sheild; we would sell it to the public for this price</dd>
 
