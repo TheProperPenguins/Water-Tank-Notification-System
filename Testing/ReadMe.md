@@ -8,3 +8,4 @@ Testing
 <li>Accurate to plus or minus .05 KΩ</li>
 <li>Tested the phone charger to the solar panel to make sure it charged</li>
 <ul/>
+![Graph](
