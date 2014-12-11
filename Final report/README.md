@@ -2,9 +2,12 @@ Final Report
 ==============
 Our project was successful! The cell phone and arduino are hooked up to the solar panel so the actual project should last months on end without needing to be checked.
 Andre, our client, saw our finished product during our Design Expo and was very impressed and happy that he would soon recive it for his water tank.
+![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
 
 <p> <b> Automatic Water Tank Notification System </b> </p>
 We created a system that notifies a user when the water levels in any given tank have fallen below the desirable level.  The user is notified via text message sent from an arduino attached to the water sensor.  Additionally there is a solar panel feature that prevents the system from running out of power.  This system allows our client to monitor his tank’s water levels without having to visit the tanks in person. All the farmer has to do is place the sensor at the bottom of his tank, fill the tank to the desired water level, press the button to program that value, put his phone number in the phone and then he’s done! 
+![CAD1](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/CAD1.png)
+![CAD2](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/CAD%202.png)
 
 <p> <b> Analysis </b> </p>
 
