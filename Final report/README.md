@@ -2,14 +2,15 @@ Final Report
 ==============
 Our project was successful! The cell phone and arduino are hooked up to the solar panel so the actual project should last months on end without needing to be checked.
 Andre, our client, saw our finished product during our Design Expo and was very impressed and happy that he would soon recive it for his water tank.
+<p> <b> The Final Product </p> </b>
 ![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
 
 <ul>
-<li> Red WIres:Go to power<li/>
+<li> Red Wires go to power<li/>
 <li> Button connection is to input</li>
 <li>Serial port on phone connects to designated ports and ground</li>
 <li> All black wires go to ground</li>
-<li> Solar pannel is conected to power<li>
+<li> Solar panel is conected to power<li>
 </ul>
 
 <b>Solar panel conection</b>
