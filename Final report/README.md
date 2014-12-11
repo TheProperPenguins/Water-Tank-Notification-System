@@ -20,6 +20,20 @@ We created a system that notifies a user when the water levels in any given tank
 <li>System works best if water in tank is not sloshing around when the water is at the level of the sensor </li>
 </ul>
 
+<p> <b> Timeline </b> </p>
+<ul>
+<li>Oct 9th- Introduction Presentation</li>
+<li>Oct 17th- All materials collected/ half of prototype done </li>
+<li>Oct 23rd- Water sensing part done (start working on final product with cell phone) </li>
+<li>Oct 31st- Continue working on making final product and design review </li>
+<li>Nov 6th- Critical design review </li>
+<li>Nov 14th- Finishing touches on final product and testing </li>
+<li>Nov 20th- Hardware Bazaar </li>
+<li>Nov 28th- More testing and refine product/ work on presentation for Expo</li>
+<li>Dec 6th-Design Expo</li>
+<li>Dec 12th- Final Design Report</li>
+</ul>
+
 <p> <b> Future Work </b> </p>
 
 <ul>
@@ -30,11 +44,11 @@ We created a system that notifies a user when the water levels in any given tank
 
 <p> <b> Costs </b> </p>
 ![Budget](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Screen%20Shot%202014-12-11%20at%202.28.38%20PM.jpg)
-
-<b> This did not inluded the cost of our unused phones and unused items.</b>
-<dt> Sunk Costs: $65.72</dt>
-<b> Manufactoring Costs </b>
+<dd> ~$210.00 </dd> 
+<dd> This inluded the cost of our unused phones and unused items.</dd>
+<dt> Fanufactoring Costs </dt>
 <dd> $79.99 </dd>
 <dd> If we were able to manufactor our product, with our own board, sensor, and a GMS sheild; we would sell it to the public for this price</dd>
 
 </dl>
+
