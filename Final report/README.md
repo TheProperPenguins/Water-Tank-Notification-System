@@ -21,7 +21,6 @@ We created a system that notifies a user when the water levels in any given tank
 <ul>
 <li>Make it so only the SMS capability is attached to the Arduino (take away the LCD screen ect. To save on battery power)</li>
 <li>Attach a key pad on the outside of the box so the user doesn't have to open the box to program their phone number</li>
-<li>Attach the phone to the solar panel so that it may stay constantly charged </li>
 <li>Make it so the programmable button is on the outside of box to make it more user friendly </li>
 </ul>
 
