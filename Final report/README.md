@@ -6,13 +6,7 @@ Andre, our client, saw our finished product during our Design Expo and was very 
 
 ![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
 
-<ul>
-<li> Red Wires go to power<li/>
-<li> Button connection is to input</li>
-<li>Serial port on phone connects to designated ports and ground</li>
-<li> All black wires go to ground</li>
-<li> Solar panel is conected to power<li>
-</ul>
+
 
 <b>Solar panel conection</b>
 
