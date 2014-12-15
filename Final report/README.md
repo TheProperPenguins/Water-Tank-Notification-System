@@ -4,7 +4,7 @@ Our project was successful! The cell phone and arduino are hooked up to the sola
 Andre, our client, saw our finished product during our Design Expo and was very impressed and happy that he would soon recive it for his water tank.
 <p> <b> The Final Product </p> </b>
 
-![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.png)
+![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
 
 <ul>
 <li> Red Wires go to power<li/>
