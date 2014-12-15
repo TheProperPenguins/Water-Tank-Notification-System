@@ -5,7 +5,6 @@ Andre, our client, saw our finished product during our Design Expo and was very 
 <p> <b> The Final Product </p> </b>
 
 ![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
-![projectimage](https://github.com/TheProperPenguins/Water-Tank-Notification-System/blob/master/Github%20Pictures/Picture1.jpg)
 
 <ul>
 <li> Red Wires go to power<li/>
